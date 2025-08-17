@@ -2,4 +2,4 @@
 Python scripts
 
 
-There is a python scripts for management of DHCP server
+This is a python scripts to manage DHCP server in the CDMA network, which is based on the Lucent 5ESS MSC
